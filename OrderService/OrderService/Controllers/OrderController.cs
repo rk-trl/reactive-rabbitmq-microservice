@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Ecomm.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using Plain.RabbitMQ;
+using RabbitMQ;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 

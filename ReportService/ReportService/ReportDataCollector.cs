@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Hosting;
 using Newtonsoft.Json;
-using Plain.RabbitMQ;
+using RabbitMQ;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;

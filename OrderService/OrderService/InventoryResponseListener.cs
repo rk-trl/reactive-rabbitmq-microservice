@@ -1,10 +1,6 @@
 ﻿using Ecomm.Models;
-using Microsoft.Extensions.Hosting;
 using Newtonsoft.Json;
-using Plain.RabbitMQ;
-using System.Collections.Generic;
-using System.Threading;
-using System.Threading.Tasks;
+using RabbitMQ;
 
 namespace OrderService
 {
